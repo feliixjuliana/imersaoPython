@@ -38,3 +38,4 @@ while tentativas > 0:
         break
     else:
         print(f"Suas tentativas acabaram!\nA palavra secreta era: '{palavraSecreta}'\nMais sorte na próxima vez!")
+        break
