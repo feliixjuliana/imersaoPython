@@ -36,5 +36,5 @@ while tentativas > 0:
     if "_" not in adivinhadas:
         print(f"Você adivinhou a palavra '{palavraSecreta}'!")
         break
-else:
-    print(f"Suas tentativas acabaram!\nA palavra secreta era: '{palavraSecreta}'\nMais sorte na próxima vez!")
+    else:
+        print(f"Suas tentativas acabaram!\nA palavra secreta era: '{palavraSecreta}'\nMais sorte na próxima vez!")
